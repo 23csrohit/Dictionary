@@ -41,7 +41,7 @@ Before you begin, ensure you have the following installed on your system:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BoddepallyVenkatesh06/Dictionary-Webapp.git
+https://github.com/23csrohit/Dictionary.git
 cd dictionary-web-app
 ```
 
