@@ -1,4 +1,4 @@
-# Dictionary Web App
+# Dictionary Application
 
 Dictionary webapp is a web application built with React.js that allows users to look up definitions, synonyms, and example sentences for English words. It leverages various APIs to provide comprehensive and accurate information.
 
